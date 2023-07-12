@@ -34,7 +34,7 @@ class Home extends BaseController
 
     public function login(){
 
-return view('ci4/login');
+return view('login');
     
     }
 
